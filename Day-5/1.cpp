@@ -2,9 +2,6 @@
 
 using namespace std;
 
-// Transpose
-
-
 int main()
 {
     int i, j, row, col;
